@@ -29,6 +29,8 @@ Construir una herramienta de interceptación y análisis de tráfico de red en t
 ## 📸 4. Evidencia Operativa
 * **Filtrado en Puerto 80 (HTTP):** Interceptación bidireccional de tráfico entre el host local (`192.168.100.21`) y la infraestructura de Canonical (`91.189.91.57`), registrando la degradación del TTL de 64 a 43 (21 saltos de router).
 * **Filtrado en Puerto 22 (SSH):** Captura en tiempo real del intento de apertura de socket TCP (handshake SYN/RST-ACK) desencadenado por el cliente OpenSSH local.
+![Captura de pantalla del Sniffer interceptando SSH](evidencia_ssh.png)
+* **Filtrado en Puerto 80 (HTTP):** Interceptación bidireccional...
 
 ---
 
