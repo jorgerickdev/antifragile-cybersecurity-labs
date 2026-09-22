@@ -87,3 +87,14 @@ Cada proyecto aquí documentado ha sido resuelto bajo **fricción deliberada**:
 
 ---
 *Este repositorio es un testimonio vivo de consistencia, profundidad técnica y resistencia ante el aburrimiento. Las respuestas fáciles se buscan en Google; las soluciones antifrágiles se construyen desde el metal.*
+
+---
+
+## 🎯 Next Milestone: Moving to Ring 0 & Artificial Intelligence
+
+Con la culminación de este ecosistema de laboratorios planificada para **mediados de enero**, el siguiente paso estratégico en mi portafolio se enfocará en romper las abstracciones del espacio de usuario para descender directamente al núcleo del sistema operativo.
+
+### 🧠 Featured Upcoming Project: [Cognitive-Kernel-Labs](https://github.com)
+> **"Fusionando la seguridad a nivel de kernel con inteligencia artificial nativa en un entorno de fricción bare-metal deliberada."**
+
+
