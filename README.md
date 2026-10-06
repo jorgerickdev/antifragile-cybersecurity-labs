@@ -94,7 +94,7 @@ Cada proyecto aquí documentado ha sido resuelto bajo **fricción deliberada**:
 
 Con la culminación de este ecosistema de laboratorios planificada para **mediados de enero**, el siguiente paso estratégico en mi portafolio se enfocará en romper las abstracciones del espacio de usuario para descender directamente al núcleo del sistema operativo.
 
-### 🧠 Featured Upcoming Project: [Cognitive-Kernel-Labs](https://github.com)
+### 🧠 Featured Upcoming Project: [Cognitive-Kernel-Labs](https://github.com/jorgerickdev/Cognitive-Kernel-Labs)
 > **"Fusionando la seguridad a nivel de kernel con inteligencia artificial nativa en un entorno de fricción bare-metal deliberada."**
 
 
